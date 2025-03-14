@@ -4,10 +4,10 @@
 Stock Market Dashboard is a modern and user-friendly **WPF application** built with **C# and .NET**. It provides real-time stock data for top companies, allowing users to monitor stock prices, highs, lows, and trading volume efficiently.  
 
 ## ✨ Features  
-- **Live Stock Data** – Fetches and displays real-time market data.  
-- **Interactive UI** – Professional WPF DataGrid with a sleek design.  
-- **API Integration** – Retrieves stock information from the Twelve Data API.  
-- **Manual Refresh** – Users can update stock data while staying within API limits.  
+- **Live Stock Data**: Fetches and displays real-time market data.  
+- **Interactive UI**: Professional WPF DataGrid with a sleek design.  
+- **API Integration**: Retrieves stock information from the Twelve Data API.  
+- **Manual Refresh**: Users can update stock data while staying within API limits.  
   
 
 ## ⚡ API Usage  
